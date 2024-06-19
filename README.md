@@ -7,7 +7,7 @@ Currently working on 💪:
 - 🍿 Screenplay: Movie database, With heavy use of the IMDB API.
 
 Love working with 😍:
--HTML, CSS and JAVASCRIPT, Currently obsessing with mastering the fundamentals to ensure i can adapt and learn on the fly at a moments notice in the workplace
+- HTML, CSS and JAVASCRIPT, Currently obsessing with mastering the fundamentals to ensure i can adapt and learn on the fly at a moments notice in the workplace
 
 Learning 🤓: 
 - PHP and MySQL
