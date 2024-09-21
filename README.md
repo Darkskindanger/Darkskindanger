@@ -1,13 +1,11 @@
 ## Hi There 👋 
 
-My name is Kilian, and Im a self taught/teaching full stack web developer interested in all things Web development for a range of clients.
+My name is Kilian, and Im a self taught/teaching full stack web developer interested in all things Web development.
 
 Currently working on 💪:
-- 🏢 Adel Property: Customer facing real estate website, allowing for seamless UI/UX engagement while maintaining pleasing aesthetic frontend.
-- 🍿 Screenplay: Movie database, With heavy use of the IMDB API.
+- Freelance projects for a number of small-medium sized businesses around Sydney, Aus
 
 Love working with 😍:
-- HTML, CSS and JAVASCRIPT, Currently obsessing with mastering the fundamentals to ensure i can adapt and learn on the fly at a moments notice in the workplace
-
-Learning 🤓: 
-- PHP and MySQL
+- HTML, CSS and JAVASCRIPT
+- React/NextJS
+- PHP/MySQL
